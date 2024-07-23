@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=SMD_DC_converters.SchLib
+DocumentPath=Integrated_circuits.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKQBRKMQ
 
 [Document2]
-DocumentPath=SMD_DC_converters_IC_packages.PcbLib
+DocumentPath=SMD_IC_packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
